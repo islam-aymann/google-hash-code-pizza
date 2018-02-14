@@ -172,6 +172,7 @@ def main():
     pizza.set_piece(1,1,0,5,0)
     pizza.next_start()
     print(pizza.start)
+    print('hello')
 
 if __name__ == "__main__":
     print('Starting...\n')
